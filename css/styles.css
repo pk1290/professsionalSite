@@ -1,0 +1,78 @@
+.top{
+    background-color: #ffefa0;
+    height: 600px;
+}
+
+p{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    position: relative;
+    top: 170px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    font-weight: normal;
+    color: teal;
+    display: inline-block;
+}
+
+.auto{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: x-large;
+    color: saddlebrown;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    display: inline-block;
+    padding: 20px;
+    font-weight: normal;
+    color: teal;
+    position: relative;
+    top: 110px;
+    left: 300px;
+}
+
+#cloudImg{
+    position: absolute;
+    top: 150px;
+    right: 140px;
+}
+
+#cloudImg1{
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+
+.myImage{
+    position: absolute;
+    left: 90px;
+    top:110px;
+    width: 160px;
+}
+.circular{
+    border-radius: 100%;
+}
+#mountain{
+    width: 42%;
+    position: absolute;
+    left:550px;
+    top: 250px;
+}
+
+.middle{
+    height: 500px;
+    background-color: lightskyblue;
+}
+
+.bottom{
+    height: 700px;
+    background-color: lightgreen;
+}
+
+body{
+    margin:0;
+}
