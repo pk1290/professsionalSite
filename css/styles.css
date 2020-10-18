@@ -25,6 +25,7 @@ h1{
 }
 .about{
     font-weight: normal;
+    color: teal;
 }
 
 hr{
@@ -50,7 +51,6 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
     color: #d17d1c;
-    padding-top: 30px;
 }
 
 #top-cloud{
@@ -88,6 +88,7 @@ h3{
 
 .bottom-container{
     background-color: lightgreen;
+    padding-bottom: 30px;
 }
 
 body{
