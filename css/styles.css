@@ -67,6 +67,7 @@ h3{
 
 .myImage{
     width: 160px;
+    margin-top: 20px;
 }
 .circular{
     border-radius: 100%;
