@@ -142,3 +142,32 @@ a{
     border-radius: 20px;
     text-decoration: none;
  }
+
+ .footer-link{
+     width: 9rem;
+     height: 2.7rem;
+     margin: 1rem auto;
+     font-size: 1.2rem;
+     background-color: lightgreen;
+     border-radius: 7%;
+     font-weight: 100;
+     border-width: 0;
+ }
+
+ @media (max-width:623px){
+    .test-automation{
+        width: 100%;
+        margin: 0 auto 15px auto;
+        float: none;
+    }
+
+    .technologies{
+        width: 100%;
+        float:none;
+        margin: 0 auto 15px auto;
+    }
+
+    .skill-row{
+        margin: 50px auto 50px auto;
+    }
+ }
